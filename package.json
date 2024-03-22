@@ -1,0 +1,35 @@
+{
+  "name": "dolorperspiciatis",
+  "version": "1.0.0",
+  "description": "EOS configuration is simplified and specified smart contract registration and invocation is supported for javascript",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OswaldHeaney/dolorperspiciatis.git"
+  },
+  "keywords": [
+    "ipsum",
+    "CoinXP",
+    "nemo",
+    "earum",
+    "et",
+    "Crosschain",
+    "perferendis"
+  ],
+  "author": "ReynaOberbrunner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OswaldHeaney/dolorperspiciatis.git/issues"
+  },
+  "dependencies": {
+    "binaryen": "^51.0.0",
+    "eosjs": "^16.0.9",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^5.2.0",
+    "mochawesome": "^3.0.3",
+    "should": "^13.2.3"
+  }
+}
